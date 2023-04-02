@@ -1,4 +1,6 @@
-### Hi there 👋
+| [Multi Keypad](https://github.com/Neradoc/Circuitpython_Multi_Keypad) | [Keypad Debouncer](https://github.com/Neradoc/Circuitpython_Keypad_Debouncer) | [MCP23017 Matrix Scanner](https://github.com/Neradoc/circuitpython-mcp23017-scanner) |
+| ---      | ---       | ---       |
+| Use multiple instances of keypad or compatible classes as one with a single event queue. | Converts a keypad queue into multi clicks, long presses, and more information on the buttons states. | Scan a keyboard with a MCP21017 using an API modelled after the keypad module. |
 
 <!--
 **Neradoc/Neradoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
