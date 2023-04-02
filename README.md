@@ -1,18 +1,19 @@
 | [Multi Keypad](https://github.com/Neradoc/Circuitpython_Multi_Keypad) | [Keypad Debouncer](https://github.com/Neradoc/Circuitpython_Keypad_Debouncer) | [MCP23017 Matrix Scanner](https://github.com/Neradoc/circuitpython-mcp23017-scanner) |
 | ---      | ---       | ---       |
-| Use multiple instances of keypad or compatible classes as one with a single event queue. | Converts a keypad queue into multi clicks, long presses, and more information on the buttons states. | Scan a keyboard with a MCP21017 using an API modelled after the keypad module. |
+| Use multiple instances of keypad or compatible classes as one with a single event queue. | Converts a keypad queue into multi clicks, long presses, and more information on the buttons states. | Scan a keyboard with a MCP21017 using an API modelled after the keypad module. WORK IN PROGRESS |
 
 <!--
-**Neradoc/Neradoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/Neradoc/Circuitpython-ElementTree
 
-Here are some ideas to get you started:
+https://github.com/Neradoc/twatch-scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+https://github.com/Neradoc/circuitpython-m5stack-unit8
+https://github.com/Neradoc/CircuitPython_Absolute_Mouse
+
+https://github.com/Neradoc/Circuitpyton-Bundler
+https://github.com/Neradoc/websockets-for-circuitpython
+https://github.com/Neradoc/blinka-multi-mcp2221
+https://github.com/Neradoc/ugit-for-circuitpython
+
 -->
