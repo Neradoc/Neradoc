@@ -13,6 +13,7 @@ Libraries
 https://github.com/Neradoc/Circuitpython-ElementTree
 https://github.com/Neradoc/CircuitPython_Absolute_Mouse
 https://github.com/Neradoc/websockets-for-circuitpython
+https://github.com/Neradoc/Analog_Button_Keypad
 
 Drivers
 https://github.com/Neradoc/circuitpython_openlcd_mini
