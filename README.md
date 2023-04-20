@@ -9,8 +9,6 @@
 | Bit-banged driver for a 7-segment display driven by the TM1637 chip. |  |  |
 
 
-
-
 <!--
 https://github.com/Neradoc/Circuitpython_Keyboard_Layouts
 
@@ -22,6 +20,7 @@ https://github.com/Neradoc/Analog_Button_Keypad
 
 Drivers
 https://github.com/Neradoc/circuitpython_openlcd_mini
+https://github.com/Neradoc/circuitpython-st25dv
 
 Helpers
 https://github.com/Neradoc/twatch-scripts
